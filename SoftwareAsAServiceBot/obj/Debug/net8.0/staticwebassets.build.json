@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fnyXjd0wFwgysghB2VqkT5wnCHmgE9LuBYJE8IE2gBE=",
+  "Source": "SoftwareAsAServiceBot",
+  "BasePath": "_content/SoftwareAsAServiceBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
